@@ -1,0 +1,1 @@
+This file contains an interactive system that allows the user to recieve a book recommendation based upon the users selection for the titles language, publisher and author. The system is designed around a Nearest Neighbor's system to locate the final suggestions.
